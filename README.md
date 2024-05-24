@@ -29,7 +29,7 @@
 <!-- About Section -->
 ## About me 🤓
 <p>
- I am a software engineer who loves developing software and has been developing software for about 15 years. I have experience working with .NET and NodeJS (TypeScript). I don't consider myself a fullstack developer but I have also experience working as a FE Developer in React/React Native.
+ I am a software engineer that has been developing software for about 15 years. I have experience working with .NET and NodeJS (TypeScript). I don't consider myself a fullstack developer but I have also experience working as a FE Developer in React/React Native.
 </p>
 
 ## Certifications 🏆
